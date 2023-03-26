@@ -1,2 +1,0 @@
-('\\\\Mac\\Home\\Documents\\github\\learn\\image-transformation-2d\\build\\Transform\\PYZ-00.pyz',
- [])
